@@ -1,6 +1,6 @@
 div {
     background-color: rgb(245, 209, 111);
-    position: absolute;
+    position: relative;
     color: rgb(82, 50, 11);
     font-size: 30px;
     border-radius: 25px;
